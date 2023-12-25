@@ -12,7 +12,7 @@
 
 
 ## :sassy_man: About Me
-- :school: Advanced Minecraft programmer.
+- :school: Java enjoyer.
 - :technologist: I love using programming as a tool to create and control other applications according to my needs.
 - :student: Currently learning: [`Computer Science`](https://brilliant.org/).
 
