@@ -8,6 +8,7 @@
 
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=trueman96&label=Profile%20views&color=0e75b6&style=plastic" alt="trueman96" /> 
+	<img src="https://wakatime.com/badge/user/018cbaca-4f7a-4a3b-ac63-101b480921e9.svg" alt="Total time coded since Dec 30 2023" />
 </p>
 
 
