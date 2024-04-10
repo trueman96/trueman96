@@ -74,11 +74,8 @@
 </div>
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=BEPb" alt="BEPb" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trueman96" alt="BEPb" /></a>
 </p>
-
-
-
 
    <!--machine-learning-->
 ```mermaid
@@ -92,8 +89,6 @@ graph TD;
    ```
 
 
-
-
 <div align="center">
 <summary>Trophy: Hackerrank Profile Trophy</summary>
 </div>
@@ -104,8 +99,6 @@ graph TD;
 width="30%">
 
 </p>
-
-
 
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 
@@ -119,26 +112,18 @@ width="30%">
 </p>
 
 
-
 #### Thanks for visiting :heart:
 
 <p align="center"> 
-<img src="https://profile-counter.glitch.me/BEPb/count.svg">  
+<img src="https://profile-counter.glitch.me/trueman96count.svg">  
 
 counting of visitors to this page in this section started from May 8, 2022
 <a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=BEPb/BEPb&type=Date)](https://star-history.com/#BEPb/BEPb&Date)
-
-
-
 ### Profile Views
 counting of visitors to this page in this section started from June 12, 2022
 
-![](https://count.getloli.com/get/@BEPb.github.readme)
+![](https://count.getloli.com/get/@trueman96.github.readme)
 </br>
 
 [MIT](LICENSE)
