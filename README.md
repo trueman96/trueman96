@@ -73,11 +73,6 @@
 <summary>Trophy: Hackerrank Profile Trophy</summary>
 </div>
 
-#### Thanks for visiting :heart:
-
-<p align="center"> 
-<img src="https://profile-counter.glitch.me/trueman96count.svg">  
-
 ### Profile Views
 ![](https://count.getloli.com/get/@trueman96.github.readme)
 
