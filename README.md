@@ -4,8 +4,8 @@
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
     <a href="https://github.com/trueman96/trueman96/graphs/contributors"><img src="https://img.shields.io/github/contributors/trueman96/trueman96?color=blue"></a>
     <a href="https://github.com/trueman96/trueman96/stargazers"><img src="https://img.shields.io/github/stars/trueman96/trueman96.svg?logo=github"></a>
-    <a href="https://github.com/trueman96/trueman96/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=BEPb.BEPb" alt="visitors"/>   
+    <a href="https://github.com/trueman96/trueman96/network/members"><img src="https://img.shields.io/github/forks/trueman96/trueman96.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=trueman96.trueman96" alt="visitors"/>   
 </p>
 
 <!--   my-header-img -->
