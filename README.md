@@ -40,14 +40,6 @@
 <a href="https://skyline.github.com/trueman96/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
 -->
 
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
-
-<p align="center"> 
-<img src="https://github-profile-trophy.vercel.app/?username=trueman96" alt="trueman96" />
-</p>
-
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=trueman96" alt="trueman96" />
 </p>
