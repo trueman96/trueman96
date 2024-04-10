@@ -1,7 +1,7 @@
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/trueman96/trueman96"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Java-FF1493.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Java-gold.svg"></a>
     <a href="https://github.com/trueman96/trueman96/graphs/contributors"><img src="https://img.shields.io/github/contributors/trueman96/trueman96?color=blue"></a>
     <a href="https://github.com/trueman96/trueman96/stargazers"><img src="https://img.shields.io/github/stars/trueman96/trueman96.svg?logo=github"></a>
     <a href="https://github.com/trueman96/trueman96/network/members"><img src="https://img.shields.io/github/forks/trueman96/trueman96.svg?color=blue&logo=github"></a>
