@@ -30,15 +30,11 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=trueman96&show_icons=true">
 
-<!--   profile-green-animate -->
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
-<!--   grid-snake ![](https://github.com/trueman96/trueman96/blob/output/github-contribution-grid-snake.svg) -->
+![](https://github.com/trueman96/trueman96/blob/output/github-contribution-grid-snake.svg)
 
-
-<!--   skyline 
 <a href="https://skyline.github.com/trueman96/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=trueman96" alt="trueman96" />
