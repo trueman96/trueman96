@@ -61,14 +61,6 @@
 <!--  2d history skills для обновления картинки нужно обновить профиль на странице https://profile.codersrank.io/user/trueman96-->
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=trueman96&show-other-skills=true" width="auto"></img>
 
-**📫 How to Reach me:**
-<p align="left">
-<a href="https://twitter.com/noname85071193" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/twitter.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/andrej-marinchenko-0445b7214" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/linkedin.svg" alt="BEPb" height="30" width="30" /></a>
-<a href="mailto:andrej.marinchenko@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/BEPb/BEPb/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
-<a href="https://api.whatsapp.com/send?phone=+375333333355" alt="Connect on Whatsapp"> <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
-</p>
-
 <div align="center">
 <summary>Trophy: Github Profile Trophy</summary>
 </div>
@@ -90,12 +82,6 @@ counting of visitors to this page in this section started from May 8, 2022
 <a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 ### Profile Views
-counting of visitors to this page in this section started from June 12, 2022
-
 ![](https://count.getloli.com/get/@trueman96.github.readme)
-</br>
-
-[MIT](LICENSE)
-
 
 </p>
