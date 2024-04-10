@@ -45,7 +45,11 @@
 </div>
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trueman96" alt="trueman96" /></a>
+<img src="https://github-profile-trophy.vercel.app/?username=trueman96" alt="trueman96" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=trueman96" alt="trueman96" />
 </p>
 
 ### Profile Views
