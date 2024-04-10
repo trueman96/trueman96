@@ -48,10 +48,6 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trueman96" alt="trueman96" /></a>
 </p>
 
-<div align="center">
-<summary>Trophy: Hackerrank Profile Trophy</summary>
-</div>
-
 ### Profile Views
 ![](https://count.getloli.com/get/@trueman96.github.readme)
 
