@@ -5,7 +5,7 @@
     <a href="https://github.com/trueman96/trueman96/graphs/contributors"><img src="https://img.shields.io/github/contributors/trueman96/trueman96?color=blue"></a>
     <a href="https://github.com/trueman96/trueman96/stargazers"><img src="https://img.shields.io/github/stars/trueman96/trueman96.svg?logo=github"></a>
     <a href="https://github.com/trueman96/trueman96/network/members"><img src="https://img.shields.io/github/forks/trueman96/trueman96.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=trueman96.trueman96" alt="visitors"/>   
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=trueman96.trueman96" alt="stalkers"/>   
 </p>
 
 <!--   my-header-img -->
@@ -35,7 +35,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=trueman96" alt="trueman96" />
 </p>
 
-### Profile Views
+### Stalkers
 ![](https://count.getloli.com/get/@trueman96.github.readme)
 
 </p>
